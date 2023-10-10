@@ -1,0 +1,7 @@
+C:\Users\asael\Desktop\ApiEstudiante\obj\Debug\net7.0\ApiEstudiante.csproj.AssemblyReference.cache
+C:\Users\asael\Desktop\ApiEstudiante\obj\Debug\net7.0\ApiEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asael\Desktop\ApiEstudiante\obj\Debug\net7.0\ApiEstudiante.AssemblyInfoInputs.cache
+C:\Users\asael\Desktop\ApiEstudiante\obj\Debug\net7.0\ApiEstudiante.AssemblyInfo.cs
+C:\Users\asael\Desktop\ApiEstudiante\obj\Debug\net7.0\ApiEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\asael\Desktop\ApiEstudiante\obj\Debug\net7.0\ApiEstudiante.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asael\Desktop\ApiEstudiante\obj\Debug\net7.0\ApiEstudiante.MvcApplicationPartsAssemblyInfo.cache
